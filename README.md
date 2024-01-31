@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio en GitHub y clonarlo a mi computadora (escritorio local)
+Este proyecto es una prueba de como crear un repositorio en GitHub con un archivo y clonarlo a mi computadora (escritorio local). Luego modificar el archivo README de forma local y despues subirlo al mismo repositorio en GitHub.
